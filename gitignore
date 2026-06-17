@@ -1,0 +1,51 @@
+# ── Virtual environment ───────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Distribution / packaging ──────────────────────────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ── Environment variables ─────────────────────────────────────────────────────
+.env
+.env.*
+
+# ── VS Code ───────────────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── Data files (raw and processed — too large for git) ────────────────────────
+data/raw/
+data/processed/
+
+# ── Outputs ───────────────────────────────────────────────────────────────────
+outputs/reports/
+outputs/exports/
+
+# ── Jupyter (not used here but precaution) ────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── pytest cache ──────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
