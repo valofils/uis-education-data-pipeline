@@ -161,6 +161,11 @@ python -m src.dissemination.export
 
 ---
 
+### Tableau dashboard
+https://public.tableau.com/app/profile/mariel.ambratis.fils.andrianavalondrahona/viz/GlobalEducationIndicatorsTrackerUNESCOUISData20152023/Dashboard1?publish=yes
+
+---
+
 ## Data Source
 
 All data originates from the **UNESCO Institute for Statistics (UIS)** public data portal:
